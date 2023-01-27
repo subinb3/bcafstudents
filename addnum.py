@@ -1,3 +1,4 @@
-a=10
-b=2
-print (a+b)
+a=6
+b=5
+c=7
+print (a+b+c)
